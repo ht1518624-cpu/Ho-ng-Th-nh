@@ -1,0 +1,20 @@
+.Chuaxanhdep{
+    color: blue;
+    font-size: 28pt;
+    font-style: italic;
+}
+div{
+    background-color: rgb(248, 141, 159);
+    height: 200px;
+}
+p.doan1{
+    color: black;
+    font-family: Arial;
+    font-size: 20pt;
+}
+button{
+    color:red;
+    font-family: Arial;
+    font-size: 50px ;
+    background-color: orange;
+}
